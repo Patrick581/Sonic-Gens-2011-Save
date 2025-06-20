@@ -1,1 +1,1 @@
-This is my Sonic Generations (20110 save. It has all of the S ranks in all the stages, bosses (inculdeing hard mode), and challanges. It has all the red star ring. It also has all the statues. 
+This is my Sonic Generations (20110 save. It has an S ranks in all the stages, bosses (inculdeing hard mode), and challanges. It has all the red star ring. It also has all the statues. 
