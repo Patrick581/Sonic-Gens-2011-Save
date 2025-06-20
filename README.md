@@ -1,1 +1,1 @@
-This is my Sonic Generations (2011) save. It has an S ranks in all the stages, bosses (inculdeing hard mode), riaval battles (also inculdeing hard mode), and challanges. It has all the red star ring. It also has all the statues. 
+This is my Sonic Generations (2011) save. It has a S ranks on all the stages, bosses (inculdeing hard mode), riaval battles (also inculdeing hard mode), and challanges. It has all the red star ring. It also has all the statues. 
