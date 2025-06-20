@@ -1,72 +1,49 @@
 The Setup is AI generated beacause idk how to explan this
 
-To use my save file in the 2011 PC version of *Sonic Generations*, follow these steps:
+## How to Use my Sonic Generations (2011) Save File
 
----
+### Step 1: Find Your Save File Folder
 
-### 🗂️ Step 1: Locate Your Save File Directory
-
-Your save files are typically stored in:([gamefaqs.gamespot.com][1])
+Your save files are usually located at:
 
 ```
 C:\Program Files (x86)\Steam\userdata\<Your Steam User ID>\71340\remote
 ```
 
-
-
-Replace `<Your Steam User ID>` with your unique Steam user ID number. Within this folder, you'll find:([savegame.pro][2])
+Replace `<Your Steam User ID>` with your Steam account number. Inside this folder, you’ll see files named:
 
 * `sonic.sav`
-* `sonic2.dat`([steamcommunity.com][3], [reddit.com][4])
-
-These files contain your game progress and settings.&#x20;
+* `sonic2.dat`
 
 ---
 
-### 🔄 Step 2: Backup Your Current Save Files
+### Step 2: Back Up Your Current Save Files
 
-Before replacing any files, it's essential to back up your current save data:([pcgamingwiki.com][5])
+Before you replace anything, make sure to back up your existing save:
 
-1. Navigate to the `remote` folder mentioned above.
-2. Copy `sonic.sav` and `sonic2.dat` to a safe location on your computer.([steamcommunity.com][3])
-
----
-
-### 📥 Step 3: Replace with the New Save File
-
-1. Obtain the save file you wish to use.
-2. Rename the downloaded file to `sonic.sav`.
-3. Place the renamed file into the `remote` folder, replacing the existing `sonic.sav`.([steamcommunity.com][3])
+* Copy both `sonic.sav` and `sonic2.dat` from the folder to another safe place on your computer.
 
 ---
 
-### ⚙️ Step 4: Disable Steam Cloud Synchronization
+### Step 3: Replace the Save Files
 
-To prevent Steam from overwriting your new save file:([reddit.com][4])
-
-1. Open the Steam client.
-2. Go to your Library and right-click on *Sonic Generations*.
-3. Select **Properties**.
-4. Navigate to the **Updates** tab.
-5. Uncheck **Enable Steam Cloud synchronization for Sonic Generations**.([gamebanana.com][6], [gamefaqs.gamespot.com][7])
-
-This ensures that Steam does not sync your save data and overwrite the changes.&#x20;
+* Get the save files you want to use.
+* Rename them to `sonic.sav` and `sonic2.dat` (if they aren’t already named that).
+* Paste them into the `remote` folder, overwriting the existing files.
 
 ---
 
-### 🛠️ Optional: Use SonicGMI for Mod Support
+### Step 4: Turn Off Steam Cloud Sync
 
-If you're using mods or facing issues with save file redirection:([gamebanana.com][8])
+To avoid Steam overwriting your replaced save files:
 
-1. Download and install **SonicGMI** (Sonic Generations Mod Installer).
-2. Launch SonicGMI and go to the **Settings** tab.
-3. Uncheck **Enable save file redirection**.
-4. Restart SonicGMI and then launch *Sonic Generations*.([steamcommunity.com][9], [steamcommunity.com][3])
-
-This approach helps in scenarios where the game doesn't recognize the new save file. ([steamcommunity.com][3])
+* Open Steam and go to your Library.
+* Right-click on *Sonic Generations* and select **Properties**.
+* Go to the **Updates** tab.
+* Uncheck **Enable Steam Cloud synchronization for Sonic Generations**.
 
 ---
 
-### ✅ Final Check
+### Step 5: Launch the Game and Check
 
-After completing the above steps, launch *Sonic Generations* to verify that the new save file is active and your progress reflects the changes
+Start *Sonic Generations* and make sure your new save file is working properly.
